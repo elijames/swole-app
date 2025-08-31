@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'exercisedb' => [
+        'key' => env('EXERCISEDB_API_KEY'),
+    ],
+
 ];
